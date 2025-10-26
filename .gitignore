@@ -1,0 +1,39 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Jupyter and Colab
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+# Data and models
+data/
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.sav
+*.joblib
+*.zip
+
+# Output files
+*.png
+*.jpg
+*.pdf
+*.html
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Credentials and configs
+.env
+credentials.json
+token.json
